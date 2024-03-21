@@ -18,7 +18,7 @@ require (
 	go.uber.org/atomic v1.7.0
 	golang.org/x/sys v0.0.0-20210511113859-b0526f3d8744 // indirect
 	golang.org/x/text v0.3.6
-	google.golang.org/grpc v1.38.0
+	google.golang.org/grpc v1.56.3
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gorm.io/driver/sqlite v1.1.4
 	gorm.io/gorm v1.21.9
